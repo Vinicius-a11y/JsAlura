@@ -1,1 +1,1 @@
-# JsAlura
+# JsAlura - tipos, variaveis, funções
